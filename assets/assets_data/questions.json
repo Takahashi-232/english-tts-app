@@ -1,0 +1,22 @@
+[
+  {
+    "category": "あいさつ",
+    "question": "お元気ですか?",
+    "answer": "How are you?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "元気にしていましたか?",
+    "answer": "How have you been?"
+  },
+  {
+    "category": "食事",
+    "question": "お昼を食べましたか?",
+    "answer": "Did you have lunch?"
+  },
+  {
+    "category": "食事",
+    "question": "お弁当を食べました。",
+    "answer": "I had a lunch box."
+  }
+]
