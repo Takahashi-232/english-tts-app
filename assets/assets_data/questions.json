@@ -11,12 +11,202 @@
   },
   {
     "category": "食事",
-    "question": "お昼を食べましたか?",
+    "question": "お昼を食べましたか？",
     "answer": "Did you have lunch?"
   },
   {
     "category": "食事",
     "question": "お弁当を食べました。",
     "answer": "I had a lunch box."
+  },
+  {
+    "category": "あいさつ",
+    "question": "またお目にかかれて嬉しいです。",
+    "answer": "It's nice to see you again."
+  },
+  {
+    "category": "あいさつ",
+    "question": "お仕事はなんですか？",
+    "answer": "What do you do?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "日本のメーカーで働いています。",
+    "answer": "I work for a Japanese manufacturing company."
+  },
+  {
+    "category": "あいさつ",
+    "question": "日本にはもう慣れましたか？",
+    "answer": "Are you used to Japan yet?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "もう時差には慣れましたか？",
+    "answer": "Are you used to the time different yet?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "今はもう慣れました。",
+    "answer": "I'm used to it now."
+  },
+  {
+    "category": "あいさつ",
+    "question": "この寒さには全くなれません。",
+    "answer": "I'm not used to this cold weather at all."
+  },
+  {
+    "category": "あいさつ",
+    "question": "早起きには慣れています。",
+    "answer": "I'm used to getting up early."
+  },
+  {
+    "category": "あいさつ",
+    "question": "お名前を伺っても良いですか？",
+    "answer": "May I have your name?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "スペルを教えていただけますか？",
+    "answer": "May I have the speling?"
+  },
+  {
+    "category": "趣味",
+    "question": "クラシックに興味はありますか？",
+    "answer": "Are you intu classical music?"
+  },
+  {
+    "category": "趣味",
+    "question": "明日ヨガのクラスに行ってみますか？",
+    "answer": "Are you interested in going to yoga class tomorrow?"
+  },
+  {
+    "category": "趣味",
+    "question": "お試しレッスンを受けてみたいです。",
+    "answer": "I'm interested in taking a trial lesson."
+  },
+  {
+    "category": "趣味",
+    "question": "朝、散歩をするのが好きです。",
+    "answer": "I like taking a walk in a morning."
+  },
+  {
+    "category": "趣味",
+    "question": "新しいレシピに挑戦するのが好きです。",
+    "answer": "I like trying new recipes."
+  },
+  {
+    "category": "食事",
+    "question": "辛い食べ物はあまり好きではありません。",
+    "answer": "I don't realy like spicy food."
+  },
+  {
+    "category": "食事",
+    "question": "私は甘党です。",
+    "answer": "I have a sweet tooth."
+  },
+  {
+    "category": "生活",
+    "question": "私は夜型です。",
+    "answer": "I'm a night owl."
+  },
+  {
+    "category": "趣味",
+    "question": "何か趣味はありますか？",
+    "answer": "Do you have any hobbies?"
+  },
+  {
+    "category": "趣味",
+    "question": "特に趣味はありません。",
+    "answer": "I don't have any particular hobbies."
+  },
+  {
+    "category": "趣味",
+    "question": "登山が好きですが、単なる趣味です。",
+    "answer": "I like mountain climing,but it's just a hobby of mine."
+  },
+  {
+    "category": "趣味",
+    "question": "株の取引きをしていますが、単なる趣味です。",
+    "answer": "I trade stocks,but it's just a hobby of mine."
+  },
+  {
+    "category": "生活",
+    "question": "週末にはいつも何をしていますか？",
+    "answer": "What do you usually do on weekends?"
+  },
+  {
+    "category": "生活",
+    "question": "毎週土曜日はいつも家族と過ごします。",
+    "answer": "On Sundays,I always spend with my family."
+  },
+  {
+    "category": "生活",
+    "question": "オフの時は何をしていますか？",
+    "answer": "What do you do in your free time?"
+  },
+  {
+    "category": "生活",
+    "question": "最近はあまり自由な時間はありません。",
+    "answer": "I dom't have very much free time lately."
+  },
+  {
+    "category": "生活",
+    "question": "さすが素敵な料理ですね。",
+    "answer": "Great job with the food cooking."
+  },
+  {
+    "category": "生活",
+    "question": "よくお料理はしますか？",
+    "answer": "Do you cook often?"
+  },
+  {
+    "category": "仕事",
+    "question": "昨日は色々とお疲れさまでした。",
+    "answer": "Good job with everything yesterday."
+  },
+  {
+    "category": "食事",
+    "question": "これにします。",
+    "answer": "I'll have this one."
+  },
+  {
+    "category": "食事",
+    "question": "付け合わせはサラダにします。",
+    "answer": "I'll have salade on the side."
+  },
+  {
+    "category": "食事",
+    "question": "とりあえず以上で。",
+    "answer": "That's all for now."
+  },
+  {
+    "category": "食事",
+    "question": "ハンバーガーはピクルス抜きでお願いします。",
+    "answer": "May I have the humbarger without picles."
+  },
+  {
+    "category": "食事",
+    "question": "取り皿をいただけますか？",
+    "answer": "May I have an extra plate?"
+  },
+  {
+    "category": "食事",
+    "question": "お腹がペコペコです。",
+    "answer": "I'm starving."
+  },
+  {
+    "category": "食事",
+    "question": "割とお腹いっぱいです。",
+    "answer": "I'm pretty full."
+  },
+  {
+    "category": "食事",
+    "question": "お腹がパンパンです。",
+    "answer": "I'm stuffed."
+  },
+  {
+    "category": "食事",
+    "question": "デザートは別腹です。",
+    "answer": "I have room for dessert."
   }
 ]
