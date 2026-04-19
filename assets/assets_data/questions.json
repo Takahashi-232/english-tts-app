@@ -208,5 +208,91 @@
     "category": "食事",
     "question": "デザートは別腹です。",
     "answer": "I have room for dessert."
+  },
+  {
+    "category": "あいさつ",
+    "question": "どうぞ",
+    "answer": "Go ahead."
+  },
+  {
+    "category": "あいさつ",
+    "question": "それではお言葉に甘えて。",
+    "answer": "Well, if you insist."
+  },
+  {
+    "category": "あいさつ",
+    "question": "先に行くね。",
+    "answer": "I'll go ahead."
+  },
+  {
+    "category": "食事",
+    "question": "どうぞ最後の一切れを取ってください。",
+    "answer": "Go ahead and have the last piece."
+  },
+  {
+    "category": "観光",
+    "question": "この街は何で有名ですか？",
+    "answer": "What is this town famous for?"
+  },
+  {
+    "category": "観光",
+    "question": "ロンドンは博物館で有名です。",
+    "answer": "London is famous for its museums."
+  },
+  {
+    "category": "観光",
+    "question": "滞在中に国立博物館に行こうと思っています。",
+    "answer": "During my stay, I'm planning to go to the national museum."
+  },
+  {
+    "category": "観光",
+    "question": "滞在中に世界遺産に行くつもりですか？",
+    "answer": "During your stay, are you planning to go to a world heritage site?"
+  },
+  {
+    "category": "観光",
+    "question": "これからは早く着くようにしましょうね。",
+    "answer": "From now on, let's try to arrive early."
+  },
+  {
+    "category": "観光",
+    "question": "この階段は大理石で出来ています。",
+    "answer": "This staircase is made of marble."
+  },
+  {
+    "category": "観光",
+    "question": "あれはゴッホが描いた油絵です。",
+    "answer": "That is an oil painting by Van Gogh."
+  },
+  {
+    "category": "食事",
+    "question": "いくらくらいだったんですか？",
+    "answer": "About how much was it?"
+  },
+  {
+    "category": "食事",
+    "question": "みんなにごちそうしたかったんです。",
+    "answer": "I wanted to treat everyone."
+  },
+  {
+    "category": "あいさつ",
+    "question": "今日は雨が降りますよ。",
+    "answer": "It's gonna rain today."
+  },
+  {
+    "category": "あいさつ",
+    "question": "この傘を使います。",
+    "answer": "I'm gonna use this umbrella."
+  },
+  {
+    "category": "あいさつ",
+    "question": "今日は何か予定がありますか？",
+    "answer": "Do you have any plans today?"
+  },
+  {
+    "category": "あいさつ",
+    "question": "特に何も予定はありません。",
+    "answer": "I don't have any plans."
   }
+
 ]
