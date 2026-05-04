@@ -1,298 +1,120 @@
 [
-  {
-    "category": "あいさつ",
-    "question": "お元気ですか?",
-    "answer": "How are you?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "元気にしていましたか?",
-    "answer": "How have you been?"
-  },
-  {
-    "category": "食事",
-    "question": "お昼を食べましたか？",
-    "answer": "Did you have lunch?"
-  },
-  {
-    "category": "食事",
-    "question": "お弁当を食べました。",
-    "answer": "I had a lunch box."
-  },
-  {
-    "category": "あいさつ",
-    "question": "またお目にかかれて嬉しいです。",
-    "answer": "It's nice to see you again."
-  },
-  {
-    "category": "あいさつ",
-    "question": "お仕事はなんですか？",
-    "answer": "What do you do?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "日本のメーカーで働いています。",
-    "answer": "I work for a Japanese manufacturing company."
-  },
-  {
-    "category": "あいさつ",
-    "question": "日本にはもう慣れましたか？",
-    "answer": "Are you used to Japan yet?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "もう時差には慣れましたか？",
-    "answer": "Are you used to the time different yet?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "今はもう慣れました。",
-    "answer": "I'm used to it now."
-  },
-  {
-    "category": "あいさつ",
-    "question": "この寒さには全くなれません。",
-    "answer": "I'm not used to this cold weather at all."
-  },
-  {
-    "category": "あいさつ",
-    "question": "早起きには慣れています。",
-    "answer": "I'm used to getting up early."
-  },
-  {
-    "category": "あいさつ",
-    "question": "お名前を伺っても良いですか？",
-    "answer": "May I have your name?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "スペルを教えていただけますか？",
-    "answer": "May I have the speling?"
-  },
-  {
-    "category": "趣味",
-    "question": "クラシックに興味はありますか？",
-    "answer": "Are you intu classical music?"
-  },
-  {
-    "category": "趣味",
-    "question": "明日ヨガのクラスに行ってみますか？",
-    "answer": "Are you interested in going to yoga class tomorrow?"
-  },
-  {
-    "category": "趣味",
-    "question": "お試しレッスンを受けてみたいです。",
-    "answer": "I'm interested in taking a trial lesson."
-  },
-  {
-    "category": "趣味",
-    "question": "朝、散歩をするのが好きです。",
-    "answer": "I like taking a walk in a morning."
-  },
-  {
-    "category": "趣味",
-    "question": "新しいレシピに挑戦するのが好きです。",
-    "answer": "I like trying new recipes."
-  },
-  {
-    "category": "食事",
-    "question": "辛い食べ物はあまり好きではありません。",
-    "answer": "I don't realy like spicy food."
-  },
-  {
-    "category": "食事",
-    "question": "私は甘党です。",
-    "answer": "I have a sweet tooth."
-  },
-  {
-    "category": "生活",
-    "question": "私は夜型です。",
-    "answer": "I'm a night owl."
-  },
-  {
-    "category": "趣味",
-    "question": "何か趣味はありますか？",
-    "answer": "Do you have any hobbies?"
-  },
-  {
-    "category": "趣味",
-    "question": "特に趣味はありません。",
-    "answer": "I don't have any particular hobbies."
-  },
-  {
-    "category": "趣味",
-    "question": "登山が好きですが、単なる趣味です。",
-    "answer": "I like mountain climing,but it's just a hobby of mine."
-  },
-  {
-    "category": "趣味",
-    "question": "株の取引きをしていますが、単なる趣味です。",
-    "answer": "I trade stocks,but it's just a hobby of mine."
-  },
-  {
-    "category": "生活",
-    "question": "週末にはいつも何をしていますか？",
-    "answer": "What do you usually do on weekends?"
-  },
-  {
-    "category": "生活",
-    "question": "毎週土曜日はいつも家族と過ごします。",
-    "answer": "On Sundays,I always spend with my family."
-  },
-  {
-    "category": "生活",
-    "question": "オフの時は何をしていますか？",
-    "answer": "What do you do in your free time?"
-  },
-  {
-    "category": "生活",
-    "question": "最近はあまり自由な時間はありません。",
-    "answer": "I dom't have very much free time lately."
-  },
-  {
-    "category": "生活",
-    "question": "さすが素敵な料理ですね。",
-    "answer": "Great job with the food cooking."
-  },
-  {
-    "category": "生活",
-    "question": "よくお料理はしますか？",
-    "answer": "Do you cook often?"
-  },
-  {
-    "category": "仕事",
-    "question": "昨日は色々とお疲れさまでした。",
-    "answer": "Good job with everything yesterday."
-  },
-  {
-    "category": "食事",
-    "question": "これにします。",
-    "answer": "I'll have this one."
-  },
-  {
-    "category": "食事",
-    "question": "付け合わせはサラダにします。",
-    "answer": "I'll have salade on the side."
-  },
-  {
-    "category": "食事",
-    "question": "とりあえず以上で。",
-    "answer": "That's all for now."
-  },
-  {
-    "category": "食事",
-    "question": "ハンバーガーはピクルス抜きでお願いします。",
-    "answer": "May I have the hamburger without picles."
-  },
-  {
-    "category": "食事",
-    "question": "取り皿をいただけますか？",
-    "answer": "May I have an extra plate?"
-  },
-  {
-    "category": "食事",
-    "question": "お腹がペコペコです。",
-    "answer": "I'm starving."
-  },
-  {
-    "category": "食事",
-    "question": "割とお腹いっぱいです。",
-    "answer": "I'm pretty full."
-  },
-  {
-    "category": "食事",
-    "question": "お腹がパンパンです。",
-    "answer": "I'm stuffed."
-  },
-  {
-    "category": "食事",
-    "question": "デザートは別腹です。",
-    "answer": "I have room for dessert."
-  },
-  {
-    "category": "あいさつ",
-    "question": "どうぞ",
-    "answer": "Go ahead."
-  },
-  {
-    "category": "あいさつ",
-    "question": "それではお言葉に甘えて。",
-    "answer": "Well, if you insist."
-  },
-  {
-    "category": "あいさつ",
-    "question": "先に行くね。",
-    "answer": "I'll go ahead."
-  },
-  {
-    "category": "食事",
-    "question": "どうぞ最後の一切れを取ってください。",
-    "answer": "Go ahead and have the last piece."
-  },
-  {
-    "category": "観光",
-    "question": "この街は何で有名ですか？",
-    "answer": "What is this town famous for?"
-  },
-  {
-    "category": "観光",
-    "question": "ロンドンは博物館で有名です。",
-    "answer": "London is famous for its museums."
-  },
-  {
-    "category": "観光",
-    "question": "滞在中に国立博物館に行こうと思っています。",
-    "answer": "During my stay, I'm planning to go to the national museum."
-  },
-  {
-    "category": "観光",
-    "question": "滞在中に世界遺産に行くつもりですか？",
-    "answer": "During your stay, are you planning to go to a world heritage site?"
-  },
-  {
-    "category": "観光",
-    "question": "これからは早く着くようにしましょうね。",
-    "answer": "From now on, let's try to arrive early."
-  },
-  {
-    "category": "観光",
-    "question": "この階段は大理石で出来ています。",
-    "answer": "This staircase is made of marble."
-  },
-  {
-    "category": "観光",
-    "question": "あれはゴッホが描いた油絵です。",
-    "answer": "That is an oil painting by Van Gogh."
-  },
-  {
-    "category": "食事",
-    "question": "いくらくらいだったんですか？",
-    "answer": "About how much was it?"
-  },
-  {
-    "category": "食事",
-    "question": "みんなにごちそうしたかったんです。",
-    "answer": "I wanted to treat everyone."
-  },
-  {
-    "category": "あいさつ",
-    "question": "今日は雨が降りますよ。",
-    "answer": "It's gonna rain today."
-  },
-  {
-    "category": "あいさつ",
-    "question": "この傘を使います。",
-    "answer": "I'm gonna use this umbrella."
-  },
-  {
-    "category": "あいさつ",
-    "question": "今日は何か予定がありますか？",
-    "answer": "Do you have any plans today?"
-  },
-  {
-    "category": "あいさつ",
-    "question": "特に何も予定はありません。",
-    "answer": "I don't have any plans."
-  }
+  { "category": "あいさつ", "question": "お元気ですか？", "answer": "How are you?" },
+  { "category": "あいさつ", "question": "元気にしていましたか？", "answer": "How have you been?" },
 
+  { "category": "食事", "question": "お昼を食べましたか？", "answer": "Did you have lunch?" },
+  { "category": "食事", "question": "お弁当を食べました。", "answer": "I had a lunch box." },
+
+  { "category": "あいさつ", "question": "またお目にかかれて嬉しいです。", "answer": "It's nice to see you again." },
+  { "category": "あいさつ", "question": "お仕事はなんですか？", "answer": "What do you do?" },
+  { "category": "あいさつ", "question": "日本のメーカーで働いています。", "answer": "I work for a Japanese manufacturing company." },
+  { "category": "あいさつ", "question": "日本にはもう慣れましたか？", "answer": "Are you used to Japan yet?" },
+  { "category": "あいさつ", "question": "もう時差には慣れましたか？", "answer": "Are you used to the time difference yet?" },
+  { "category": "あいさつ", "question": "今はもう慣れました。", "answer": "I'm used to it now." },
+  { "category": "あいさつ", "question": "この寒さには全くなれません。", "answer": "I'm not used to this cold weather at all." },
+  { "category": "あいさつ", "question": "早起きには慣れています。", "answer": "I'm used to getting up early." },
+  { "category": "あいさつ", "question": "お名前を伺っても良いですか？", "answer": "May I have your name?" },
+  { "category": "あいさつ", "question": "スペルを教えていただけますか？", "answer": "May I have the spelling?" },
+
+  { "category": "趣味", "question": "クラシックに興味はありますか？", "answer": "Are you into classical music?" },
+  { "category": "趣味", "question": "明日ヨガのクラスに行ってみますか？", "answer": "Are you interested in going to a yoga class tomorrow?" },
+  { "category": "趣味", "question": "お試しレッスンを受けてみたいです。", "answer": "I'm interested in taking a trial lesson." },
+  { "category": "趣味", "question": "朝、散歩をするのが好きです。", "answer": "I like taking a walk in the morning." },
+  { "category": "趣味", "question": "新しいレシピに挑戦するのが好きです。", "answer": "I like trying new recipes." },
+
+  { "category": "食事", "question": "辛い食べ物はあまり好きではありません。", "answer": "I don't really like spicy food." },
+  { "category": "食事", "question": "私は甘党です。", "answer": "I have a sweet tooth." },
+
+  { "category": "生活", "question": "私は夜型です。", "answer": "I'm a night owl." },
+
+  { "category": "趣味", "question": "何か趣味はありますか？", "answer": "Do you have any hobbies?" },
+  { "category": "趣味", "question": "特に趣味はありません。", "answer": "I don't have any particular hobbies." },
+  { "category": "趣味", "question": "登山が好きですが、単なる趣味です。", "answer": "I like mountain climbing, but it's just a hobby of mine." },
+  { "category": "趣味", "question": "株の取引きをしていますが、単なる趣味です。", "answer": "I trade stocks, but it's just a hobby of mine." },
+
+  { "category": "生活", "question": "週末にはいつも何をしていますか？", "answer": "What do you usually do on weekends?" },
+  { "category": "生活", "question": "毎週日曜日はいつも家族と過ごします。", "answer": "On Sundays, I always spend time with my family." },
+  { "category": "生活", "question": "オフの時は何をしていますか？", "answer": "What do you do in your free time?" },
+  { "category": "生活", "question": "最近はあまり自由な時間はありません。", "answer": "I don't have very much free time lately." },
+  { "category": "生活", "question": "さすが素敵な料理ですね。", "answer": "Great job with the food cooking." },
+  { "category": "生活", "question": "よくお料理はしますか？", "answer": "Do you cook often?" },
+
+  { "category": "仕事", "question": "昨日は色々とお疲れさまでした。", "answer": "Good job with everything yesterday." },
+
+  { "category": "食事", "question": "これにします。", "answer": "I'll have this one." },
+  { "category": "食事", "question": "付け合わせはサラダにします。", "answer": "I'll have salad on the side." },
+  { "category": "食事", "question": "とりあえず以上で。", "answer": "That's all for now." },
+  { "category": "食事", "question": "ハンバーガーはピクルス抜きでお願いします。", "answer": "May I have the hamburger without pickles?" },
+  { "category": "食事", "question": "取り皿をいただけますか？", "answer": "May I have an extra plate?" },
+  { "category": "食事", "question": "お腹がペコペコです。", "answer": "I'm starving." },
+  { "category": "食事", "question": "割とお腹いっぱいです。", "answer": "I'm pretty full." },
+  { "category": "食事", "question": "お腹がパンパンです。", "answer": "I'm stuffed." },
+  { "category": "食事", "question": "デザートは別腹です。", "answer": "I have room for dessert." },
+
+  { "category": "あいさつ", "question": "どうぞ", "answer": "Go ahead." },
+  { "category": "あいさつ", "question": "それではお言葉に甘えて。", "answer": "Well, if you insist." },
+  { "category": "あいさつ", "question": "先に行くね。", "answer": "I'll go ahead." },
+
+  { "category": "食事", "question": "どうぞ最後の一切れを取ってください。", "answer": "Go ahead and have the last piece." },
+
+  { "category": "観光", "question": "この街は何で有名ですか？", "answer": "What is this town famous for?" },
+  { "category": "観光", "question": "ロンドンは博物館で有名です。", "answer": "London is famous for its museums." },
+  { "category": "観光", "question": "滞在中に国立博物館に行こうと思っています。", "answer": "During my stay, I'm planning to go to the national museum." },
+  { "category": "観光", "question": "滞在中に世界遺産に行くつもりですか？", "answer": "During your stay, are you planning to go to a world heritage site?" },
+  { "category": "観光", "question": "これからは早く着くようにしましょうね。", "answer": "From now on, let's try to arrive early." },
+  { "category": "観光", "question": "この階段は大理石で出来ています。", "answer": "This staircase is made of marble." },
+  { "category": "観光", "question": "あれはゴッホが描いた油絵です。", "answer": "That is an oil painting by Van Gogh." },
+
+  { "category": "食事", "question": "いくらくらいだったんですか？", "answer": "About how much was it?" },
+  { "category": "食事", "question": "みんなにごちそうしたかったんです。", "answer": "I wanted to treat everyone." },
+
+  { "category": "あいさつ", "question": "今日は雨が降りますよ。", "answer": "It's gonna rain today." },
+  { "category": "あいさつ", "question": "この傘を使います。", "answer": "I'm gonna use this umbrella." },
+  { "category": "あいさつ", "question": "今日は何か予定がありますか？", "answer": "Do you have any plans today?" },
+  { "category": "あいさつ", "question": "特に何も予定はありません。", "answer": "I don't have any plans." },
+
+  { "category": "生活", "question": "家でただゴロゴロするよ。", "answer": "I'm just gonna relax around the house." },
+  { "category": "生活", "question": "家の手伝いをしてもらえる？", "answer": "Will you help around the house?" },
+  { "category": "生活", "question": "皿洗いをするね。", "answer": "I'll do the dishes." },
+  { "category": "生活", "question": "掃除機をかけるね。", "answer": "I'll vacuum." },
+  { "category": "生活", "question": "この服を畳んでもらえる？", "answer": "Will you fold this cloth?" },
+  { "category": "生活", "question": "じゃあ、後でやるよ。", "answer": "OK, I'll do it later." },
+  { "category": "生活", "question": "がんばってみるよ。", "answer": "I'll do my best." },
+  { "category": "生活", "question": "引き出しにこの服を入れるの？", "answer": "Are you going to put these clothes in the drawer?" },
+
+  { "category": "生活", "question": "熱を測らせてもらっていいですか？", "answer": "May I take your temperature?" },
+  { "category": "生活", "question": "今日は熱を測りましたか？", "answer": "Did you take your temperature today?" },
+  { "category": "生活", "question": "今朝 熱を測りました。", "answer": "I took my temperature this morning." },
+  { "category": "生活", "question": "平熱でした。", "answer": "I had a normal temperature." },
+  { "category": "生活", "question": "彼女は高熱があります。", "answer": "She has a fever." },
+  { "category": "生活", "question": "彼は微熱があります。", "answer": "He has a slight fever." },
+
+  { "category": "生活", "question": "風邪の症状はありますか？", "answer": "Do you have any cold symptoms?" },
+  { "category": "生活", "question": "家族に風邪の症状はありますか？", "answer": "Does anyone in your family have cold symptoms?" },
+
+  { "category": "生活", "question": "このカフェにWi-Fiはありますか？", "answer": "Does this cafe have Wi-Fi?" },
+  { "category": "生活", "question": "どうしたらWi-Fiに接続できますか？", "answer": "How can I connect to the Wi-Fi?" },
+  { "category": "生活", "question": "Wi-Fiに接続できましたか？", "answer": "Were you able to connect to the Wi-Fi?" },
+
+  { "category": "生活", "question": "携帯電話で地図を見ることが出来ます。", "answer": "I can check the map on my phone." },
+  { "category": "生活", "question": "携帯のバッテリーが切れているので天気を調べられません。", "answer": "My phone is dead, so I can't check the weather." },
+  { "category": "生活", "question": "携帯で天気を調べてもらえますか？", "answer": "Would you check the weather on your phone?" },
+  { "category": "生活", "question": "まだメールを見ていません。", "answer": "I haven't checked my email yet." },
+
+  { "category": "仕事", "question": "映像をONにしましょう。", "answer": "Let's turn on the video." },
+  { "category": "仕事", "question": "映像が固まりました。", "answer": "The video is frozen." },
+  { "category": "仕事", "question": "映像が途切れがちです。", "answer": "The video is breaking up." },
+  { "category": "仕事", "question": "画面を共有してもらえますか？", "answer": "Would you share the screen?" },
+  { "category": "仕事", "question": "画面を共有します。", "answer": "I'll share the screen." },
+
+  { "category": "仕事", "question": "ここは電波が入りません。", "answer": "I don't have reception here." },
+  { "category": "仕事", "question": "やっと電波が入りました。", "answer": "I finally have reception." },
+  { "category": "仕事", "question": "スタジアムの中の電波はどうですか？", "answer": "How is the reception inside the stadium?" },
+
+  { "category": "仕事", "question": "通話が途切れてしまいました。", "answer": "Our call got cut off." },
+  { "category": "仕事", "question": "まだ切らないでください。", "answer": "Please don't hang up yet." },
+  { "category": "仕事", "question": "彼はもう切りました。", "answer": "He has already hung up." },
+  { "category": "仕事", "question": "ごめんなさい、まだ切るつもりではありませんでした。", "answer": "Sorry, I didn't mean to hang up." },
+
+  { "category": "仕事", "question": "このアプリでショートメールを送りましょう。", "answer": "Let's text with this app." }
 ]
