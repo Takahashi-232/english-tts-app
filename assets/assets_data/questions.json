@@ -80,7 +80,7 @@
   { "category": "生活", "question": "この服を畳んでもらえる？", "answer": "Will you fold this cloth?" },
   { "category": "生活", "question": "じゃあ、後でやるよ。", "answer": "OK, I'll do it later." },
   { "category": "生活", "question": "がんばってみるよ。", "answer": "I'll do my best." },
-  { "category": "生活", "question": "引き出しにこの服を入れるの？", "answer": "Are you going to put these clothes in the drawer?" },
+  { "category": "生活", "question": "引き出しにこの服をいれるの？", "answer": "Are you going to put these clothes in the drawer?" },
 
   { "category": "生活", "question": "熱を測らせてもらっていいですか？", "answer": "May I take your temperature?" },
   { "category": "生活", "question": "今日は熱を測りましたか？", "answer": "Did you take your temperature today?" },
