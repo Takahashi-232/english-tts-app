@@ -36,7 +36,7 @@
   { "category": "生活", "question": "毎週日曜日はいつも家族と過ごします。", "answer": "On Sundays, I always spend time with my family." },
   { "category": "生活", "question": "オフの時は何をしていますか？", "answer": "What do you do in your free time?" },
   { "category": "生活", "question": "最近はあまり自由な時間はありません。", "answer": "I don't have very much free time lately." },
-  { "category": "生活", "question": "さすが素敵な料理ですね。", "answer": "Great job with the food cooking." },
+  { "category": "生活", "question": "さすが素敵な料理ですね。", "answer": "Great job with the cooking." },
   { "category": "生活", "question": "よくお料理はしますか？", "answer": "Do you cook often?" },
 
   { "category": "仕事", "question": "昨日は色々とお疲れさまでした。", "answer": "Good job with everything yesterday." },
@@ -67,6 +67,7 @@
 
   { "category": "食事", "question": "いくらくらいだったんですか？", "answer": "About how much was it?" },
   { "category": "食事", "question": "みんなにごちそうしたかったんです。", "answer": "I wanted to treat everyone." },
+  { "category": "食事", "question": "ご注文は以上ですか？", "answer": "Will that be all?" },
 
   { "category": "あいさつ", "question": "今日は雨が降りますよ。", "answer": "It's gonna rain today." },
   { "category": "あいさつ", "question": "この傘を使います。", "answer": "I'm gonna use this umbrella." },
@@ -116,5 +117,36 @@
   { "category": "仕事", "question": "彼はもう切りました。", "answer": "He has already hung up." },
   { "category": "仕事", "question": "ごめんなさい、まだ切るつもりではありませんでした。", "answer": "Sorry, I didn't mean to hang up." },
 
-  { "category": "仕事", "question": "このアプリでショートメールを送りましょう。", "answer": "Let's text with this app." }
+  { "category": "趣味", "question": "このアプリでショートメールを送りましょう。", "answer": "Let's text with this app." },
+  { "category": "趣味", "question": "私はいつもこのアプリでショートメールを送ります。", "answer": "I usually text with this app." },
+  { "category": "趣味", "question": "住所を送りますね。", "answer": "I'll text you the address." },
+  { "category": "趣味", "question": "私の現在地を送りますね。", "answer": "I'll text you my location." },
+  { "category": "趣味", "question": "その写真を送ってもらえますか？", "answer": "Would you text me that picture?" },
+  { "category": "趣味", "question": "SNSをやっていますか？", "answer": "Are you on social media?" },
+  { "category": "趣味", "question": "今はSNSをやっていません。", "answer": "I'm not on social media now." },
+  { "category": "趣味", "question": "この写真を投稿しても大丈夫ですか？", "answer": "Is it okay if I post this picture?" },
+  { "category": "趣味", "question": "この写真なら投稿しても大丈夫です。", "answer": "It's okay to post this picture." },
+  { "category": "趣味", "question": "私は英語でSNSに投稿しています。", "answer": "I post on social media in English." },
+  { "category": "趣味", "question": "SNSで繋がっておきましょうね。", "answer": "Let's keep in touch on social media." },
+  { "category": "趣味", "question": "あなたは写真映りがとてもいいですね。", "answer": "You are so photogenic." },
+  { "category": "趣味", "question": "残念ながらこれはピントが合っていません。", "answer": "Unfortunately, this one is out of focus." },
+  { "category": "趣味", "question": "この写真はピントが合っていたらよかったのに。", "answer": "I wish this photo were in focus." },
+  { "category": "趣味", "question": "この写真は逆光になっています。", "answer": "This photo is backlit." },
+  
+  { "category": "生活", "question": "痛みますか？", "answer": "Does it hurt?" },
+  { "category": "生活", "question": "もう痛くないです。", "answer": "It doesn't hurt now." },
+  { "category": "生活", "question": "テニスをしたせいで肘が痛いです。", "answer": "My elbow hurts from playing tennis." },
+  { "category": "生活", "question": "1日中勉強したせいで目が痛いです。", "answer": "My eyes hurt from studying all day." },
+  { "category": "生活", "question": "首はもう良くなりました。", "answer": "My neck is better now." },
+  { "category": "生活", "question": "腕は良くなってきています。", "answer": "My arm is getting better now." },
+  { "category": "生活", "question": "具合は良くなってきていますか？", "answer": "Are you feeling better now?" },
+  { "category": "生活", "question": "どうぞお大事に。", "answer": "I hope you feel better." },
+  { "category": "生活", "question": "お腹の調子がおかしいです。", "answer": "I have a problem with my stomach." },
+  { "category": "生活", "question": "いつから痛み始めましたか？", "answer": "When did the pain start?" },
+  { "category": "生活", "question": "二日ぐらい前から痛み始めました。", "answer": "The pain started about two days ago." },
+  { "category": "生活", "question": "怪我をしないでくださいね。", "answer": "Just don't get hurt." },
+  { "category": "生活", "question": "腕を怪我してしまいました。", "answer": "My arm got hurt." },
+  { "category": "生活", "question": "料理をしていた時に親指を火傷しました。", "answer": "When I was cooking, I burned my thumb." },
+  { "category": "生活", "question": "肩こりがひどいです。", "answer": "My shoulders are really stiff." },
+  { "category": "生活", "question": "散歩していた時に足をひねりました。", "answer": "When I was out for a walk, I twisted my ankle." }
 ]
